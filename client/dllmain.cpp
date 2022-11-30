@@ -30,14 +30,6 @@ WNDPROC g_wndproc = nullptr;
 #ifndef NO_IMGUI
 bool g_menu_opened = false;
 #endif
-bool g_orbwalker = true;
-bool g_range = true;
-bool g_2range_objmanager = false;
-bool g_champ_info = true;
-bool g_turret_range = true;
-bool g_auto_evade = true;
-bool g_zoom_hack = false;
-bool g_spell_prediction = true;
 
 bool g_bInit = false;
 
